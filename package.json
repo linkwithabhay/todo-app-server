@@ -1,0 +1,31 @@
+{
+  "name": "todo-app-server",
+  "version": "0.1.0",
+  "description": "ToDo App's server-side code.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkwithabhay/todo-app-server.git"
+  },
+  "author": "Abhay Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linkwithabhay/todo-app-server/issues"
+  },
+  "homepage": "https://github.com/linkwithabhay/todo-app-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2"
+  }
+}
