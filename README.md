@@ -1,6 +1,9 @@
-# ToDo App Server | ![GitHub package.json version](https://img.shields.io/github/package-json/v/linkwithabhay/todo-app-server)
+# ToDo App Server
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/linkwithabhay/todo-app-server)
 [![MIT License](https://img.shields.io/github/license/linkwithabhay/todo-app-server)](https://github.com/linkwithabhay/todo-app-server/blob/main/LICENSE)
+
+![](https://img.shields.io/badge/version--development--status-incomplete-red?style=flat-square)
 
 ## About
 
@@ -17,9 +20,9 @@ ToDo App's server-side code.
 
 ## Dependencies
 
-- ![GitHub package.json bcryptjs dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/bcryptjs)
-- ![GitHub package.json cors dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/cors)
-- ![GitHub package.json dotenv dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/dotenv)
+- ![GitHub package.json bcryptjs dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/bcryptjs?logo=bcryptjs)
+- ![GitHub package.json cors dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/cors?logo=cors)
+- ![GitHub package.json dotenv dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/dotenv?logo=dotenv)
 - ![GitHub package.json express dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/express?logo=express)
-- ![GitHub package.json jsonwebtoken dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/jsonwebtoken)
-- ![GitHub package.json mongoose dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/mongoose)
+- ![GitHub package.json jsonwebtoken dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/jsonwebtoken?logo=jsonwebtoken)
+- ![GitHub package.json mongoose dependency version](https://img.shields.io/github/package-json/dependency-version/linkwithabhay/todo-app-server/mongoose?logo=mongoose)
