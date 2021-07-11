@@ -1,18 +1,15 @@
-# ToDo App Server ![GitHub package.json version](https://img.shields.io/github/package-json/v/linkwithabhay/todo-app-server)
+# ToDo App Server | ![GitHub package.json version](https://img.shields.io/github/package-json/v/linkwithabhay/todo-app-server)
 
 [![MIT License](https://img.shields.io/github/license/linkwithabhay/todo-app-server)](https://github.com/linkwithabhay/todo-app-server/blob/main/LICENSE)
 
 ## About
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/linkwithabhay/todo-app-server)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/linkwithabhay/todo-app-server)
-![GitHub repo directory count](https://img.shields.io/github/directory-file-count/linkwithabhay/todo-app-server)
 ![GitHub repo size](https://img.shields.io/github/repo-size/linkwithabhay/todo-app-server)
-
-ToDo App's server-side code.
-
 ![GitHub language count](https://img.shields.io/github/languages/count/linkwithabhay/todo-app-server)
 ![GitHub top language](https://img.shields.io/github/languages/top/linkwithabhay/todo-app-server)
+
+ToDo App's server-side code.
 
 ## Dev-dependencies
 
