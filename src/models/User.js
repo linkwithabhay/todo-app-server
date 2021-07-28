@@ -13,6 +13,13 @@ const userSchema = mongoose.Schema({
     type: String,
     required: true,
   },
+  // email_verified: {
+  //   type: Boolean,
+  //   default: false,
+  // },
+  // picture: {
+  //   type: String,
+  // },
   id: {
     type: String,
   },
