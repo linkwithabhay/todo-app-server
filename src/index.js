@@ -14,8 +14,8 @@ app.use(cors());
 app.use("/user", userRoutes);
 
 const PORT = process.env.PORT || 5000;
-mongoose.connect(process.env.MONGO_DB_URI, { useNewUrlParser: true, useUnifiedTopology: true }, (err) => {
-  if (err) return console.error(err.stack);
+mongoose.connect(process.env.MONGO_DB_URI, { useNewUrlParser: true, useUnifiedTopology: true }, (error) => {
+  if (error) return console.error(error.stack);
   app.listen(PORT, () => {
     console.log("Connected to DB!");
     console.log(`Server running on port: ${PORT}`);

@@ -2,7 +2,7 @@ import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import mongoose from "mongoose";
 
-import User from "../models/User.js"; // error, info, success, warning
+import User from "../models/User.js";
 
 export const signin = async (req, res) => {
   const { email, password } = req.body;
